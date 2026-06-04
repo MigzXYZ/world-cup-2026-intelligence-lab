@@ -113,3 +113,5 @@ dashboard/app.py
 ## License
 
 MIT License. Add attribution and data-source notes before public release.
+
+## Built by Ahmed Magdy | Migz the Analyst
