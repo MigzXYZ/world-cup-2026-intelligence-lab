@@ -1,56 +1,17 @@
+# Report Outline
 
-# Report Outline: Who Has the Toughest Road to Glory?
+## Title
+Who Has the Toughest Road to Glory? A Data Science Analysis of FIFA World Cup 2026
 
-## 1. Executive Summary
-- Biggest World Cup format ever
-- Why group difficulty, travel, and path difficulty matter
+## Sections
 
-## 2. Tournament Structure
-- 48 teams
-- 12 groups
-- Round of 32
-- 104 matches
-
-## 3. Team Strength Methodology
-- Rating source
-- Recent-form adjustment
-- Confederation and host adjustment
-
-## 4. Group of Death Index
-- Average rating
-- Top-two rating
-- Rating spread
-- Qualification pressure
-
-## 5. Match Predictor
-- Model design
-- Calibration
-- Validation
-
-## 6. Simulation Engine
-- Monte Carlo method
-- Group probabilities
-- Knockout path probabilities
-
-## 7. Travel & Schedule Burden
-- Host city distances
-- Timezone shifts
-- Rest days
-- Climate proxy
-
-## 8. Fan & Commercial Intelligence
-- Match attractiveness
-- Public fan picks
-- Content opportunity score
-
-## 9. Limitations
-- Injuries
-- Squad uncertainty
-- Tactical changes
-- Data-source freshness
-
-## 10. Future Work
-- Live results feed
-- Arabic public interface
-- Supabase leaderboard
-- Automated reports after every matchday
+1. Why the 2026 format changes the analytical problem
+2. Team strength methodology
+3. Group of Death analysis
+4. Match prediction model
+5. Group simulation results
+6. Tournament simulation results
+7. Travel and schedule difficulty
+8. Fan prediction pulse
+9. Model limitations
+10. Future improvements

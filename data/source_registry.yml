@@ -1,0 +1,23 @@
+sources:
+  fifa_official_schedule:
+    role: "Primary source for tournament facts: fixtures, results, venues, standings, bracket."
+    reliability: "primary_official"
+    update_mode: "manual verified CSV or official API/structured feed if available"
+    notes: "Do not scrape unstable pages without validation. Store snapshots."
+  fifa_world_ranking:
+    role: "Official FIFA ranking snapshot."
+    reliability: "primary_official_rating"
+    update_mode: "snapshot CSV added manually or via verified remote CSV URL"
+  world_football_elo:
+    role: "Public secondary team-strength rating."
+    reliability: "secondary_rating"
+    update_mode: "snapshot CSV added manually or via verified remote CSV URL"
+  historical_results:
+    role: "Backtesting and recent-form features."
+    reliability: "training_data"
+    update_mode: "versioned open dataset snapshot"
+production_rules:
+  - "No missing value may be replaced with invented data."
+  - "Seed ratings must be labelled as fallback only."
+  - "Formal public claims require processed data + health report + backtesting."
+  - "Every automatic update must leave a source log and validation report."

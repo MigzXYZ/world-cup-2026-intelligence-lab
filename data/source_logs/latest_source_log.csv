@@ -1,0 +1,4 @@
+source_name,source_type,source_ref,row_count,updated_at_utc
+teams,seed_fallback,data\teams_seed.csv,48,2026-06-04T19:53:48.382874+00:00
+matches,template_fallback,data\matches_template.csv,72,2026-06-04T19:53:48.412882+00:00
+host_cities,local,data\host_cities.csv,16,2026-06-04T19:53:48.427062+00:00

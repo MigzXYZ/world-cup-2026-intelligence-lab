@@ -1,0 +1,44 @@
+name: Update WC26 Data
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Daily at 06:17 UTC before tournament. Increase frequency only if API limits allow.
+    - cron: "17 6 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Build processed datasets
+        env:
+          TEAMS_CSV_URL: ${{ secrets.TEAMS_CSV_URL }}
+          MATCHES_CSV_URL: ${{ secrets.MATCHES_CSV_URL }}
+          HOST_CITIES_CSV_URL: ${{ secrets.HOST_CITIES_CSV_URL }}
+          RANKINGS_CSV_URL: ${{ secrets.RANKINGS_CSV_URL }}
+        run: python -m src.pipelines.update_all
+
+      - name: Validate processed datasets
+        run: python -m src.pipelines.validate_data
+
+      - name: Commit updated data if changed
+        run: |
+          git config user.name "wc26-data-bot"
+          git config user.email "actions@github.com"
+          git add data/processed data/raw data/source_logs
+          git diff --cached --quiet || git commit -m "Auto-update processed WC26 data"
+          git push
