@@ -1,0 +1,17 @@
+city,country,lat,lon,timezone_region
+Atlanta,United States,33.755,-84.4,Eastern
+Boston,United States,42.091,-71.264,Eastern
+Dallas,United States,32.748,-97.093,Central
+Guadalajara,Mexico,20.681,-103.462,Central
+Houston,United States,29.684,-95.411,Central
+Kansas City,United States,39.049,-94.484,Central
+Los Angeles,United States,33.953,-118.339,Pacific
+Mexico City,Mexico,19.303,-99.15,Central
+Miami,United States,25.958,-80.239,Eastern
+Monterrey,Mexico,25.668,-100.244,Central
+New York/New Jersey,United States,40.813,-74.074,Eastern
+Philadelphia,United States,39.901,-75.168,Eastern
+San Francisco Bay Area,United States,37.403,-121.97,Pacific
+Seattle,United States,47.595,-122.331,Pacific
+Toronto,Canada,43.633,-79.419,Eastern
+Vancouver,Canada,49.276,-123.111,Pacific

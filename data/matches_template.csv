@@ -1,0 +1,73 @@
+match_id,stage,group,team_a,team_b,status
+1,Group Stage,A,Mexico,South Africa,scheduled
+2,Group Stage,A,Korea Republic,Czechia,scheduled
+3,Group Stage,A,Mexico,Korea Republic,scheduled
+4,Group Stage,A,Czechia,South Africa,scheduled
+5,Group Stage,A,Czechia,Mexico,scheduled
+6,Group Stage,A,South Africa,Korea Republic,scheduled
+7,Group Stage,B,Canada,Bosnia and Herzegovina,scheduled
+8,Group Stage,B,Qatar,Switzerland,scheduled
+9,Group Stage,B,Canada,Qatar,scheduled
+10,Group Stage,B,Switzerland,Bosnia and Herzegovina,scheduled
+11,Group Stage,B,Switzerland,Canada,scheduled
+12,Group Stage,B,Bosnia and Herzegovina,Qatar,scheduled
+13,Group Stage,C,Brazil,Morocco,scheduled
+14,Group Stage,C,Haiti,Scotland,scheduled
+15,Group Stage,C,Brazil,Haiti,scheduled
+16,Group Stage,C,Scotland,Morocco,scheduled
+17,Group Stage,C,Scotland,Brazil,scheduled
+18,Group Stage,C,Morocco,Haiti,scheduled
+19,Group Stage,D,United States,Paraguay,scheduled
+20,Group Stage,D,Australia,Türkiye,scheduled
+21,Group Stage,D,United States,Australia,scheduled
+22,Group Stage,D,Türkiye,Paraguay,scheduled
+23,Group Stage,D,Türkiye,United States,scheduled
+24,Group Stage,D,Paraguay,Australia,scheduled
+25,Group Stage,E,Germany,Curaçao,scheduled
+26,Group Stage,E,Ivory Coast,Ecuador,scheduled
+27,Group Stage,E,Germany,Ivory Coast,scheduled
+28,Group Stage,E,Ecuador,Curaçao,scheduled
+29,Group Stage,E,Ecuador,Germany,scheduled
+30,Group Stage,E,Curaçao,Ivory Coast,scheduled
+31,Group Stage,F,Netherlands,Japan,scheduled
+32,Group Stage,F,Sweden,Tunisia,scheduled
+33,Group Stage,F,Netherlands,Sweden,scheduled
+34,Group Stage,F,Tunisia,Japan,scheduled
+35,Group Stage,F,Tunisia,Netherlands,scheduled
+36,Group Stage,F,Japan,Sweden,scheduled
+37,Group Stage,G,Belgium,Egypt,scheduled
+38,Group Stage,G,Iran,New Zealand,scheduled
+39,Group Stage,G,Belgium,Iran,scheduled
+40,Group Stage,G,New Zealand,Egypt,scheduled
+41,Group Stage,G,New Zealand,Belgium,scheduled
+42,Group Stage,G,Egypt,Iran,scheduled
+43,Group Stage,H,Spain,Cape Verde,scheduled
+44,Group Stage,H,Saudi Arabia,Uruguay,scheduled
+45,Group Stage,H,Spain,Saudi Arabia,scheduled
+46,Group Stage,H,Uruguay,Cape Verde,scheduled
+47,Group Stage,H,Uruguay,Spain,scheduled
+48,Group Stage,H,Cape Verde,Saudi Arabia,scheduled
+49,Group Stage,I,France,Senegal,scheduled
+50,Group Stage,I,Iraq,Norway,scheduled
+51,Group Stage,I,France,Iraq,scheduled
+52,Group Stage,I,Norway,Senegal,scheduled
+53,Group Stage,I,Norway,France,scheduled
+54,Group Stage,I,Senegal,Iraq,scheduled
+55,Group Stage,J,Argentina,Algeria,scheduled
+56,Group Stage,J,Austria,Jordan,scheduled
+57,Group Stage,J,Argentina,Austria,scheduled
+58,Group Stage,J,Jordan,Algeria,scheduled
+59,Group Stage,J,Jordan,Argentina,scheduled
+60,Group Stage,J,Algeria,Austria,scheduled
+61,Group Stage,K,Portugal,DR Congo,scheduled
+62,Group Stage,K,Uzbekistan,Colombia,scheduled
+63,Group Stage,K,Portugal,Uzbekistan,scheduled
+64,Group Stage,K,Colombia,DR Congo,scheduled
+65,Group Stage,K,Colombia,Portugal,scheduled
+66,Group Stage,K,DR Congo,Uzbekistan,scheduled
+67,Group Stage,L,England,Croatia,scheduled
+68,Group Stage,L,Ghana,Panama,scheduled
+69,Group Stage,L,England,Ghana,scheduled
+70,Group Stage,L,Panama,Croatia,scheduled
+71,Group Stage,L,Panama,England,scheduled
+72,Group Stage,L,Croatia,Ghana,scheduled
