@@ -13,3 +13,8 @@
 - Added Supabase-ready public fan voting with local fallback.
 - Added documentation files.
 - Added tests and GitHub Actions.
+
+## v0.3.1
+- Added API-Football connector for World Cup 2026 fixtures and standings.
+- Added GitHub Actions support for `API_FOOTBALL_KEY`.
+- Added API-Football setup documentation.

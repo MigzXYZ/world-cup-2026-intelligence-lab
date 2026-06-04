@@ -1,0 +1,71 @@
+name: Scrape FIFA Official Schedule
+
+on:
+  workflow_dispatch:
+    inputs:
+      rendered:
+        description: "Use Playwright browser rendering"
+        required: false
+        default: "true"
+      allow_partial:
+        description: "Allow writing fewer than 72 matches"
+        required: false
+        default: "false"
+  schedule:
+    # Low-frequency official page check. Keep respectful.
+    - cron: "23 5 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  fifa-scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+          pip install -r requirements-fifa-scraper.txt
+
+      - name: Install Playwright Chromium
+        if: ${{ github.event.inputs.rendered != 'false' }}
+        run: |
+          python -m playwright install chromium
+
+      - name: Scrape FIFA official schedule and rebuild data
+        run: |
+          if [ "${{ github.event.inputs.rendered }}" = "false" ]; then
+            RENDERED=""
+          else
+            RENDERED="--rendered"
+          fi
+
+          if [ "${{ github.event.inputs.allow_partial }}" = "true" ]; then
+            PARTIAL="--allow-partial"
+          else
+            PARTIAL=""
+          fi
+
+          python -m src.pipelines.update_from_fifa $RENDERED $PARTIAL
+
+      - name: Run tests
+        run: |
+          python -m pytest -q
+
+      - name: Commit official scrape outputs if changed
+        run: |
+          git config user.name "wc26-fifa-scraper"
+          git config user.email "actions@github.com"
+          git add data/matches_official.csv data/teams_official.csv data/raw data/source_logs data/processed
+          git diff --cached --quiet || git commit -m "Update WC26 data from FIFA official scraper"
+          git push

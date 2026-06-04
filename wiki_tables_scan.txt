@@ -1,0 +1,751 @@
+tables: 139
+
+--- TABLE 0 (7, 2) ---
+FIFA World Cup 26Copa Mundial de la FIFA 2026Coupe du Monde de la FIFA 2026 | FIFA World Cup 26Copa Mundial de la FIFA 2026Coupe du Monde de la FIFA 2026.1
+FIFA World Cup 26Copa Mundial de la FIFA 2026Coupe du Monde de la FIFA 2026 FIFA World Cup 26Copa Mundial de la FIFA 2026Coupe du Monde de la FIFA 2026.1
+                                                                        NaN                                                                           NaN
+                                                         Tournament details                                                            Tournament details
+                                                             Host countries                                                   Canada Mexico United States
+
+--- TABLE 1 (4, 2) ---
+Allowed to vote | Ineligible to vote
+       Allowed to vote          Ineligible to vote
+  Voted for United bid Canada–Mexico–United States
+Voted for Moroccan bid                     Morocco
+     Voted for neither          Sanctioned by FIFA
+
+--- TABLE 2 (6, 2) ---
+('Nation', 'Nation') | ('Vote', 'Round 1')
+                       Nation    Vote
+                       Nation Round 1
+Canada, Mexico, United States     134
+                      Morocco      65
+             None of the bids       1
+
+--- TABLE 3 (16, 4) ---
+City | Stadium | Capacity | Image
+                                             City                                       Stadium  Capacity  Image
+                        Dallas (Arlington, Texas)                AT&T Stadium‡ (Dallas Stadium)     94000    NaN
+                                      Mexico City         Estadio Azteca† (Mexico City Stadium)     83000    NaN
+New York/New Jersey (East Rutherford, New Jersey) MetLife Stadium (New York New Jersey Stadium)     82500    NaN
+
+--- TABLE 4 (1, 3) ---
+0 | 1 | 2
+                                                                                                                                                                                                                                             0                                                                                                                                                                                                       1                                                                                                                                                                                         2
+AFC (9)  Australia  Iran[F]  Iraq  Japan  Jordan (debut)  Qatar  Saudi Arabia  South Korea[G]  Uzbekistan (debut) CAF (10)  Algeria  Cape Verde[H] (debut)  DR Congo[I]  Egypt  Ghana  Ivory Coast[J]  Morocco  Senegal  South Africa  Tunisia CONCACAF (6)  Canada (co-host)  Curaçao (debut)  Haiti  Mexico (co-host)  Panama  United States[K] (co-host) CONMEBOL (6)  Argentina  Brazil  Colombia  Ecuador  Paraguay  Uruguay OFC (1)  New Zealand UEFA (16)  Austria  Belgium  Bosnia and Herzegovina  Croatia  Czech Republic[L]  England  France  Germany  Netherlands  Norway  Portugal
+
+--- TABLE 5 (1, 4) ---
+Pot 1 | Pot 2 | Pot 3 | Pot 4
+                                                                                                                                                                                  Pot 1                                                                                                                                                             Pot 2                                                                                                                                                                    Pot 3                                                                                                                                                                                                                       Pot 4
+United States (co-host) (14) Mexico (co-host) (15) Canada (co-host) (27) Spain (1) Argentina (2) France (3) England (4) Brazil (5) Portugal (6) Netherlands (7) Belgium (8) Germany (9) Croatia (10) Morocco (11) Colombia (13) Uruguay (16) Switzerland (17) Japan (18) Senegal (19) Iran (20) South Korea (22) Ecuador (23) Austria (24) Australia (26) Norway (29) Panama (30) Egypt (34) Algeria (35) Scotland (36) Paraguay (39) Tunisia (40) Ivory Coast (42) Uzbekistan (5
+
+--- TABLE 6 (48, 3) ---
+Team | Hotel | Training site
+          Team                                                Hotel                                             Training site
+   Algeria[97]                 The Oread Lawrence, Lawrence, Kansas                University of Kansas,[98] Lawrence, Kansas
+ Argentina[99] Origin Kansas City Riverfront, Kansas City, Missouri          Sporting KC Training Center, Kansas City, Kansas
+Australia[100]          Claremont Hotel & Spa, Berkeley, California Oakland Roots/Soul Training Facility, Alameda, California
+
+--- TABLE 7 (9, 3) ---
+Round | Matchday | Date
+      Round   Matchday             Date
+Group stage Matchday 1 June 11–17, 2026
+Group stage Matchday 2 June 18–23, 2026
+Group stage Matchday 3 June 24–27, 2026
+
+--- TABLE 8 (17, 4) ---
+Matchday | Pairings | Groups | Date
+  Matchday      Pairings   Groups          Date
+Matchday 1 1 vs 2 3 vs 4        A June 11, 2026
+Matchday 1 1 vs 2 3 vs 4    B & D June 12, 2026
+Matchday 1 1 vs 2 3 vs 4 B, C & D June 13, 2026
+
+--- TABLE 9 (1, 1) ---
+0
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+
+--- TABLE 10 (4, 11) ---
+Pos | Teamvte | Pld | W | D | L | GF | GA | GD | Pts | Qualification
+ Pos      Teamvte  Pld  W  D  L  GF  GA  GD  Pts                            Qualification
+   1   Mexico (H)    0  0  0  0   0   0   0    0                Advance to knockout stage
+   2 South Africa    0  0  0  0   0   0   0    0                Advance to knockout stage
+   3  South Korea    0  0  0  0   0   0   0    0 Possible knockout stage based on ranking
+
+--- TABLE 11 (1, 3) ---
+Mexico | Match 1 | South Africa
+ Mexico    Match 1  South Africa
+    NaN [Report 1]           NaN
+
+--- TABLE 12 (1, 3) ---
+South Korea | Match 2 | Czech Republic
+ South Korea    Match 2  Czech Republic
+         NaN [Report 2]             NaN
+
+--- TABLE 13 (1, 3) ---
+Czech Republic | Match 25 | South Africa
+ Czech Republic   Match 25  South Africa
+            NaN [Report 3]           NaN
+
+--- TABLE 14 (1, 3) ---
+Mexico | Match 28 | South Korea
+ Mexico   Match 28  South Korea
+    NaN [Report 4]          NaN
+
+--- TABLE 15 (1, 3) ---
+Czech Republic | Match 53 | Mexico
+ Czech Republic   Match 53  Mexico
+            NaN [Report 5]     NaN
+
+--- TABLE 16 (1, 3) ---
+South Africa | Match 54 | South Korea
+ South Africa   Match 54  South Korea
+          NaN [Report 6]          NaN
+
+--- TABLE 17 (4, 11) ---
+Pos | Teamvte | Pld | W | D | L | GF | GA | GD | Pts | Qualification
+ Pos                Teamvte  Pld  W  D  L  GF  GA  GD  Pts                            Qualification
+   1             Canada (H)    0  0  0  0   0   0   0    0                Advance to knockout stage
+   2 Bosnia and Herzegovina    0  0  0  0   0   0   0    0                Advance to knockout stage
+   3                  Qatar    0  0  0  0   0   0   0    0 Possible knockout stage based on ranking
+
+--- TABLE 18 (1, 3) ---
+Canada | Match 3 | Bosnia and Herzegovina
+ Canada    Match 3  Bosnia and Herzegovina
+    NaN [Report 7]                     NaN
+
+--- TABLE 19 (1, 3) ---
+Qatar | Match 8 | Switzerland
+ Qatar    Match 8  Switzerland
+   NaN [Report 8]          NaN
+
+--- TABLE 20 (1, 3) ---
+Switzerland | Match 26 | Bosnia and Herzegovina
+ Switzerland   Match 26  Bosnia and Herzegovina
+         NaN [Report 9]                     NaN
+
+--- TABLE 21 (1, 3) ---
+Canada | Match 27 | Qatar
+ Canada    Match 27  Qatar
+    NaN [Report 10]    NaN
+
+--- TABLE 22 (1, 3) ---
+Switzerland | Match 51 | Canada
+ Switzerland    Match 51  Canada
+         NaN [Report 11]     NaN
+
+--- TABLE 23 (1, 3) ---
+Bosnia and Herzegovina | Match 52 | Qatar
+ Bosnia and Herzegovina    Match 52  Qatar
+                    NaN [Report 12]    NaN
+
+--- TABLE 24 (4, 11) ---
+Pos | Teamvte | Pld | W | D | L | GF | GA | GD | Pts | Qualification
+ Pos Teamvte  Pld  W  D  L  GF  GA  GD  Pts                            Qualification
+   1  Brazil    0  0  0  0   0   0   0    0                Advance to knockout stage
+   2 Morocco    0  0  0  0   0   0   0    0                Advance to knockout stage
+   3   Haiti    0  0  0  0   0   0   0    0 Possible knockout stage based on ranking
+
+--- TABLE 25 (1, 3) ---
+Brazil | Match 7 | Morocco
+ Brazil     Match 7  Morocco
+    NaN [Report 13]      NaN
+
+--- TABLE 26 (1, 3) ---
+Haiti | Match 5 | Scotland
+ Haiti     Match 5  Scotland
+   NaN [Report 14]       NaN
+
+--- TABLE 27 (1, 3) ---
+Scotland | Match 30 | Morocco
+ Scotland    Match 30  Morocco
+      NaN [Report 15]      NaN
+
+--- TABLE 28 (1, 3) ---
+Brazil | Match 29 | Haiti
+ Brazil    Match 29  Haiti
+    NaN [Report 16]    NaN
+
+--- TABLE 29 (1, 3) ---
+Scotland | Match 49 | Brazil
+ Scotland    Match 49  Brazil
+      NaN [Report 17]     NaN
+
+--- TABLE 30 (1, 3) ---
+Morocco | Match 50 | Haiti
+ Morocco    Match 50  Haiti
+     NaN [Report 18]    NaN
+
+--- TABLE 31 (4, 11) ---
+Pos | Teamvte | Pld | W | D | L | GF | GA | GD | Pts | Qualification
+ Pos           Teamvte  Pld  W  D  L  GF  GA  GD  Pts                            Qualification
+   1 United States (H)    0  0  0  0   0   0   0    0                Advance to knockout stage
+   2          Paraguay    0  0  0  0   0   0   0    0                Advance to knockout stage
+   3         Australia    0  0  0  0   0   0   0    0 Possible knockout stage based on ranking
+
+--- TABLE 32 (1, 3) ---
+United States | Match 4 | Paraguay
+ United States     Match 4  Paraguay
+           NaN [Report 19]       NaN
+
+--- TABLE 33 (1, 3) ---
+Australia | Match 6 | Turkey
+ Australia     Match 6  Turkey
+       NaN [Report 20]     NaN
+
+--- TABLE 34 (1, 3) ---
+United States | Match 32 | Australia
+ United States    Match 32  Australia
+           NaN [Report 21]        NaN
+
+--- TABLE 35 (1, 3) ---
+Turkey | Match 31 | Paraguay
+ Turkey    Match 31  Paraguay
+    NaN [Report 22]       NaN
+
+--- TABLE 36 (1, 3) ---
+Turkey | Match 59 | United States
+ Turkey    Match 59  United States
+    NaN [Report 23]            NaN
+
+--- TABLE 37 (1, 3) ---
+Paraguay | Match 60 | Australia
+ Paraguay    Match 60  Australia
+      NaN [Report 24]        NaN
+
+--- TABLE 38 (4, 11) ---
+Pos | Teamvte | Pld | W | D | L | GF | GA | GD | Pts | Qualification
+ Pos     Teamvte  Pld  W  D  L  GF  GA  GD  Pts                            Qualification
+   1     Germany    0  0  0  0   0   0   0    0                Advance to knockout stage
+   2     Curaçao    0  0  0  0   0   0   0    0                Advance to knockout stage
+   3 Ivory Coast    0  0  0  0   0   0   0    0 Possible knockout stage based on ranking
+
+--- TABLE 39 (1, 3) ---
+Germany | Match 10 | Curaçao
+ Germany    Match 10  Curaçao
+     NaN [Report 25]      NaN
+
+--- TABLE 40 (1, 3) ---
+Ivory Coast | Match 9 | Ecuador
+ Ivory Coast     Match 9  Ecuador
+         NaN [Report 26]      NaN
+
+--- TABLE 41 (1, 3) ---
+Germany | Match 33 | Ivory Coast
+ Germany    Match 33  Ivory Coast
+     NaN [Report 27]          NaN
+
+--- TABLE 42 (1, 3) ---
+Ecuador | Match 34 | Curaçao
+ Ecuador    Match 34  Curaçao
+     NaN [Report 28]      NaN
+
+--- TABLE 43 (1, 3) ---
+Curaçao | Match 55 | Ivory Coast
+ Curaçao    Match 55  Ivory Coast
+     NaN [Report 29]          NaN
+
+--- TABLE 44 (1, 3) ---
+Ecuador | Match 56 | Germany
+ Ecuador    Match 56  Germany
+     NaN [Report 30]      NaN
+
+--- TABLE 45 (4, 11) ---
+Pos | Teamvte | Pld | W | D | L | GF | GA | GD | Pts | Qualification
+ Pos     Teamvte  Pld  W  D  L  GF  GA  GD  Pts                            Qualification
+   1 Netherlands    0  0  0  0   0   0   0    0                Advance to knockout stage
+   2       Japan    0  0  0  0   0   0   0    0                Advance to knockout stage
+   3      Sweden    0  0  0  0   0   0   0    0 Possible knockout stage based on ranking
+
+--- TABLE 46 (1, 3) ---
+Netherlands | Match 11 | Japan
+ Netherlands    Match 11  Japan
+         NaN [Report 31]    NaN
+
+--- TABLE 47 (1, 3) ---
+Sweden | Match 12 | Tunisia
+ Sweden    Match 12  Tunisia
+    NaN [Report 32]      NaN
+
+--- TABLE 48 (1, 3) ---
+Netherlands | Match 35 | Sweden
+ Netherlands    Match 35  Sweden
+         NaN [Report 33]     NaN
+
+--- TABLE 49 (1, 3) ---
+Tunisia | Match 36 | Japan
+ Tunisia    Match 36  Japan
+     NaN [Report 34]    NaN
+
+--- TABLE 50 (1, 3) ---
+Japan | Match 57 | Sweden
+ Japan    Match 57  Sweden
+   NaN [Report 35]     NaN
+
+--- TABLE 51 (1, 3) ---
+Tunisia | Match 58 | Netherlands
+ Tunisia    Match 58  Netherlands
+     NaN [Report 36]          NaN
+
+--- TABLE 52 (4, 11) ---
+Pos | Teamvte | Pld | W | D | L | GF | GA | GD | Pts | Qualification
+ Pos Teamvte  Pld  W  D  L  GF  GA  GD  Pts                            Qualification
+   1 Belgium    0  0  0  0   0   0   0    0                Advance to knockout stage
+   2   Egypt    0  0  0  0   0   0   0    0                Advance to knockout stage
+   3    Iran    0  0  0  0   0   0   0    0 Possible knockout stage based on ranking
+
+--- TABLE 53 (1, 3) ---
+Belgium | Match 16 | Egypt
+ Belgium    Match 16  Egypt
+     NaN [Report 37]    NaN
+
+--- TABLE 54 (1, 3) ---
+Iran | Match 15 | New Zealand
+ Iran    Match 15  New Zealand
+  NaN [Report 38]          NaN
+
+--- TABLE 55 (1, 3) ---
+Belgium | Match 39 | Iran
+ Belgium    Match 39  Iran
+     NaN [Report 39]   NaN
+
+--- TABLE 56 (1, 3) ---
+New Zealand | Match 40 | Egypt
+ New Zealand    Match 40  Egypt
+         NaN [Report 40]    NaN
+
+--- TABLE 57 (1, 3) ---
+Egypt | Match 63 | Iran
+ Egypt    Match 63  Iran
+   NaN [Report 41]   NaN
+
+--- TABLE 58 (1, 3) ---
+New Zealand | Match 64 | Belgium
+ New Zealand    Match 64  Belgium
+         NaN [Report 42]      NaN
+
+--- TABLE 59 (4, 11) ---
+Pos | Teamvte | Pld | W | D | L | GF | GA | GD | Pts | Qualification
+ Pos      Teamvte  Pld  W  D  L  GF  GA  GD  Pts                            Qualification
+   1        Spain    0  0  0  0   0   0   0    0                Advance to knockout stage
+   2   Cape Verde    0  0  0  0   0   0   0    0                Advance to knockout stage
+   3 Saudi Arabia    0  0  0  0   0   0   0    0 Possible knockout stage based on ranking
+
+--- TABLE 60 (1, 3) ---
+Spain | Match 14 | Cape Verde
+ Spain    Match 14  Cape Verde
+   NaN [Report 43]         NaN
+
+--- TABLE 61 (1, 3) ---
+Saudi Arabia | Match 13 | Uruguay
+ Saudi Arabia    Match 13  Uruguay
+          NaN [Report 44]      NaN
+
+--- TABLE 62 (1, 3) ---
+Spain | Match 38 | Saudi Arabia
+ Spain    Match 38  Saudi Arabia
+   NaN [Report 45]           NaN
+
+--- TABLE 63 (1, 3) ---
+Uruguay | Match 37 | Cape Verde
+ Uruguay    Match 37  Cape Verde
+     NaN [Report 46]         NaN
+
+--- TABLE 64 (1, 3) ---
+Cape Verde | Match 65 | Saudi Arabia
+ Cape Verde    Match 65  Saudi Arabia
+        NaN [Report 47]           NaN
+
+--- TABLE 65 (1, 3) ---
+Uruguay | Match 66 | Spain
+ Uruguay    Match 66  Spain
+     NaN [Report 48]    NaN
+
+--- TABLE 66 (4, 11) ---
+Pos | Teamvte | Pld | W | D | L | GF | GA | GD | Pts | Qualification
+ Pos Teamvte  Pld  W  D  L  GF  GA  GD  Pts                            Qualification
+   1  France    0  0  0  0   0   0   0    0                Advance to knockout stage
+   2 Senegal    0  0  0  0   0   0   0    0                Advance to knockout stage
+   3    Iraq    0  0  0  0   0   0   0    0 Possible knockout stage based on ranking
+
+--- TABLE 67 (1, 3) ---
+France | Match 17 | Senegal
+ France    Match 17  Senegal
+    NaN [Report 49]      NaN
+
+--- TABLE 68 (1, 3) ---
+Iraq | Match 18 | Norway
+ Iraq    Match 18  Norway
+  NaN [Report 50]     NaN
+
+--- TABLE 69 (1, 3) ---
+France | Match 42 | Iraq
+ France    Match 42  Iraq
+    NaN [Report 51]   NaN
+
+--- TABLE 70 (1, 3) ---
+Norway | Match 41 | Senegal
+ Norway    Match 41  Senegal
+    NaN [Report 52]      NaN
+
+--- TABLE 71 (1, 3) ---
+Norway | Match 61 | France
+ Norway    Match 61  France
+    NaN [Report 53]     NaN
+
+--- TABLE 72 (1, 3) ---
+Senegal | Match 62 | Iraq
+ Senegal    Match 62  Iraq
+     NaN [Report 54]   NaN
+
+--- TABLE 73 (4, 11) ---
+Pos | Teamvte | Pld | W | D | L | GF | GA | GD | Pts | Qualification
+ Pos   Teamvte  Pld  W  D  L  GF  GA  GD  Pts                            Qualification
+   1 Argentina    0  0  0  0   0   0   0    0                Advance to knockout stage
+   2   Algeria    0  0  0  0   0   0   0    0                Advance to knockout stage
+   3   Austria    0  0  0  0   0   0   0    0 Possible knockout stage based on ranking
+
+--- TABLE 74 (1, 3) ---
+Argentina | Match 19 | Algeria
+ Argentina    Match 19  Algeria
+       NaN [Report 55]      NaN
+
+--- TABLE 75 (1, 3) ---
+Austria | Match 20 | Jordan
+ Austria    Match 20  Jordan
+     NaN [Report 56]     NaN
+
+--- TABLE 76 (1, 3) ---
+Argentina | Match 43 | Austria
+ Argentina    Match 43  Austria
+       NaN [Report 57]      NaN
+
+--- TABLE 77 (1, 3) ---
+Jordan | Match 44 | Algeria
+ Jordan    Match 44  Algeria
+    NaN [Report 58]      NaN
+
+--- TABLE 78 (1, 3) ---
+Algeria | Match 69 | Austria
+ Algeria    Match 69  Austria
+     NaN [Report 59]      NaN
+
+--- TABLE 79 (1, 3) ---
+Jordan | Match 70 | Argentina
+ Jordan    Match 70  Argentina
+    NaN [Report 60]        NaN
+
+--- TABLE 80 (4, 11) ---
+Pos | Teamvte | Pld | W | D | L | GF | GA | GD | Pts | Qualification
+ Pos    Teamvte  Pld  W  D  L  GF  GA  GD  Pts                            Qualification
+   1   Portugal    0  0  0  0   0   0   0    0                Advance to knockout stage
+   2   DR Congo    0  0  0  0   0   0   0    0                Advance to knockout stage
+   3 Uzbekistan    0  0  0  0   0   0   0    0 Possible knockout stage based on ranking
+
+--- TABLE 81 (1, 3) ---
+Portugal | Match 23 | DR Congo
+ Portugal    Match 23  DR Congo
+      NaN [Report 61]       NaN
+
+--- TABLE 82 (1, 3) ---
+Uzbekistan | Match 24 | Colombia
+ Uzbekistan    Match 24  Colombia
+        NaN [Report 62]       NaN
+
+--- TABLE 83 (1, 3) ---
+Portugal | Match 47 | Uzbekistan
+ Portugal    Match 47  Uzbekistan
+      NaN [Report 63]         NaN
+
+--- TABLE 84 (1, 3) ---
+Colombia | Match 48 | DR Congo
+ Colombia    Match 48  DR Congo
+      NaN [Report 64]       NaN
+
+--- TABLE 85 (1, 3) ---
+Colombia | Match 71 | Portugal
+ Colombia    Match 71  Portugal
+      NaN [Report 65]       NaN
+
+--- TABLE 86 (1, 3) ---
+DR Congo | Match 72 | Uzbekistan
+ DR Congo    Match 72  Uzbekistan
+      NaN [Report 66]         NaN
+
+--- TABLE 87 (4, 11) ---
+Pos | Teamvte | Pld | W | D | L | GF | GA | GD | Pts | Qualification
+ Pos Teamvte  Pld  W  D  L  GF  GA  GD  Pts                            Qualification
+   1 England    0  0  0  0   0   0   0    0                Advance to knockout stage
+   2 Croatia    0  0  0  0   0   0   0    0                Advance to knockout stage
+   3   Ghana    0  0  0  0   0   0   0    0 Possible knockout stage based on ranking
+
+--- TABLE 88 (1, 3) ---
+England | Match 22 | Croatia
+ England    Match 22  Croatia
+     NaN [Report 67]      NaN
+
+--- TABLE 89 (1, 3) ---
+Ghana | Match 21 | Panama
+ Ghana    Match 21  Panama
+   NaN [Report 68]     NaN
+
+--- TABLE 90 (1, 3) ---
+England | Match 45 | Ghana
+ England    Match 45  Ghana
+     NaN [Report 69]    NaN
+
+--- TABLE 91 (1, 3) ---
+Panama | Match 46 | Croatia
+ Panama    Match 46  Croatia
+    NaN [Report 70]      NaN
+
+--- TABLE 92 (1, 3) ---
+Panama | Match 67 | England
+ Panama    Match 67  England
+    NaN [Report 71]      NaN
+
+--- TABLE 93 (1, 3) ---
+Croatia | Match 68 | Ghana
+ Croatia    Match 68  Ghana
+     NaN [Report 72]    NaN
+
+--- TABLE 94 (12, 12) ---
+Pos | Grp | Teamvte | Pld | W | D | L | GF | GA | GD | Pts | Qualification
+ Pos Grp             Teamvte  Pld  W  D  L  GF  GA  GD  Pts             Qualification
+   1   A Third place Group A    0  0  0  0   0   0   0    0 Advance to knockout stage
+   2   B Third place Group B    0  0  0  0   0   0   0    0 Advance to knockout stage
+   3   C Third place Group C    0  0  0  0   0   0   0    0 Advance to knockout stage
+
+--- TABLE 95 (119, 19) ---
+0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18
+ 0                    1                    2   3   4           5           6   7   8             9             10  11  12         13         14  15  16    17    18
+NaN          Round of 32          Round of 32 NaN NaN Round of 16 Round of 16 NaN NaN Quarterfinals Quarterfinals NaN NaN Semifinals Semifinals NaN NaN Final Final
+NaN                  NaN                  NaN NaN NaN         NaN         NaN NaN NaN           NaN           NaN NaN NaN        NaN        NaN NaN NaN   NaN   NaN
+NaN June 29 – Foxborough June 29 – Foxborough NaN NaN         NaN         NaN NaN NaN           NaN           NaN NaN NaN        NaN        NaN NaN NaN   NaN   NaN
+
+--- TABLE 96 (1, 3) ---
+Runner-up Group A | Match 73 | Runner-up Group B
+ Runner-up Group A    Match 73  Runner-up Group B
+               NaN [Report 73]                NaN
+
+--- TABLE 97 (1, 3) ---
+Winner Group C | Match 76 | Runner-up Group F
+ Winner Group C    Match 76  Runner-up Group F
+            NaN [Report 74]                NaN
+
+--- TABLE 98 (1, 3) ---
+Winner Group E | Match 74 | 3rd Group A/B/C/D/F
+ Winner Group E    Match 74  3rd Group A/B/C/D/F
+            NaN [Report 75]                  NaN
+
+--- TABLE 99 (1, 3) ---
+Winner Group F | Match 75 | Runner-up Group C
+ Winner Group F    Match 75  Runner-up Group C
+            NaN [Report 76]                NaN
+
+--- TABLE 100 (1, 3) ---
+Runner-up Group E | Match 78 | Runner-up Group I
+ Runner-up Group E    Match 78  Runner-up Group I
+               NaN [Report 77]                NaN
+
+--- TABLE 101 (1, 3) ---
+Winner Group I | Match 77 | 3rd Group C/D/F/G/H
+ Winner Group I    Match 77  3rd Group C/D/F/G/H
+            NaN [Report 78]                  NaN
+
+--- TABLE 102 (1, 3) ---
+Winner Group A | Match 79 | 3rd Group C/E/F/H/I
+ Winner Group A    Match 79  3rd Group C/E/F/H/I
+            NaN [Report 79]                  NaN
+
+--- TABLE 103 (1, 3) ---
+Winner Group L | Match 80 | 3rd Group E/H/I/J/K
+ Winner Group L    Match 80  3rd Group E/H/I/J/K
+            NaN [Report 80]                  NaN
+
+--- TABLE 104 (1, 3) ---
+Winner Group G | Match 82 | 3rd Group A/E/H/I/J
+ Winner Group G    Match 82  3rd Group A/E/H/I/J
+            NaN [Report 81]                  NaN
+
+--- TABLE 105 (1, 3) ---
+Winner Group D | Match 81 | 3rd Group B/E/F/I/J
+ Winner Group D    Match 81  3rd Group B/E/F/I/J
+            NaN [Report 82]                  NaN
+
+--- TABLE 106 (1, 3) ---
+Winner Group H | Match 84 | Runner-up Group J
+ Winner Group H    Match 84  Runner-up Group J
+            NaN [Report 83]                NaN
+
+--- TABLE 107 (1, 3) ---
+Runner-up Group K | Match 83 | Runner-up Group L
+ Runner-up Group K    Match 83  Runner-up Group L
+               NaN [Report 84]                NaN
+
+--- TABLE 108 (1, 3) ---
+Winner Group B | Match 85 | 3rd Group E/F/G/I/J
+ Winner Group B    Match 85  3rd Group E/F/G/I/J
+            NaN [Report 85]                  NaN
+
+--- TABLE 109 (1, 3) ---
+Runner-up Group D | Match 88 | Runner-up Group G
+ Runner-up Group D    Match 88  Runner-up Group G
+               NaN [Report 86]                NaN
+
+--- TABLE 110 (1, 3) ---
+Winner Group J | Match 86 | Runner-up Group H
+ Winner Group J    Match 86  Runner-up Group H
+            NaN [Report 87]                NaN
+
+--- TABLE 111 (1, 3) ---
+Winner Group K | Match 87 | 3rd Group D/E/I/J/L
+ Winner Group K    Match 87  3rd Group D/E/I/J/L
+            NaN [Report 88]                  NaN
+
+--- TABLE 112 (1, 3) ---
+Winner Match 73 | Match 90 | Winner Match 75
+ Winner Match 73    Match 90  Winner Match 75
+             NaN [Report 89]              NaN
+
+--- TABLE 113 (1, 3) ---
+Winner Match 74 | Match 89 | Winner Match 77
+ Winner Match 74    Match 89  Winner Match 77
+             NaN [Report 90]              NaN
+
+--- TABLE 114 (1, 3) ---
+Winner Match 76 | Match 91 | Winner Match 78
+ Winner Match 76    Match 91  Winner Match 78
+             NaN [Report 91]              NaN
+
+--- TABLE 115 (1, 3) ---
+Winner Match 79 | Match 92 | Winner Match 80
+ Winner Match 79    Match 92  Winner Match 80
+             NaN [Report 92]              NaN
+
+--- TABLE 116 (1, 3) ---
+Winner Match 83 | Match 93 | Winner Match 84
+ Winner Match 83    Match 93  Winner Match 84
+             NaN [Report 93]              NaN
+
+--- TABLE 117 (1, 3) ---
+Winner Match 81 | Match 94 | Winner Match 82
+ Winner Match 81    Match 94  Winner Match 82
+             NaN [Report 94]              NaN
+
+--- TABLE 118 (1, 3) ---
+Winner Match 86 | Match 95 | Winner Match 88
+ Winner Match 86    Match 95  Winner Match 88
+             NaN [Report 95]              NaN
+
+--- TABLE 119 (1, 3) ---
+Winner Match 85 | Match 96 | Winner Match 87
+ Winner Match 85    Match 96  Winner Match 87
+             NaN [Report 96]              NaN
+
+--- TABLE 120 (1, 3) ---
+Winner Match 89 | Match 97 | Winner Match 90
+ Winner Match 89    Match 97  Winner Match 90
+             NaN [Report 97]              NaN
+
+--- TABLE 121 (1, 3) ---
+Winner Match 93 | Match 98 | Winner Match 94
+ Winner Match 93    Match 98  Winner Match 94
+             NaN [Report 98]              NaN
+
+--- TABLE 122 (1, 3) ---
+Winner Match 91 | Match 99 | Winner Match 92
+ Winner Match 91    Match 99  Winner Match 92
+             NaN [Report 99]              NaN
+
+--- TABLE 123 (1, 3) ---
+Winner Match 95 | Match 100 | Winner Match 96
+ Winner Match 95    Match 100  Winner Match 96
+             NaN [Report 100]              NaN
+
+--- TABLE 124 (1, 3) ---
+Winner Match 97 | Match 101 | Winner Match 98
+ Winner Match 97    Match 101  Winner Match 98
+             NaN [Report 101]              NaN
+
+--- TABLE 125 (1, 3) ---
+Winner Match 99 | Match 102 | Winner Match 100
+ Winner Match 99    Match 102  Winner Match 100
+             NaN [Report 102]               NaN
+
+--- TABLE 126 (1, 3) ---
+Loser Match 101 | Match 103 | Loser Match 102
+ Loser Match 101    Match 103  Loser Match 102
+             NaN [Report 103]              NaN
+
+--- TABLE 127 (1, 3) ---
+Winner Match 101 | Match 104 | Winner Match 102
+ Winner Match 101    Match 104  Winner Match 102
+              NaN [Report 104]               NaN
+
+--- TABLE 128 (1, 3) ---
+FIFA partners | FIFA World Cup sponsors | FIFA World Cup supporters
+                                                                                   FIFA partners                                                                                                                                                                        FIFA World Cup sponsors                                                                   FIFA World Cup supporters
+Adidas[187] Aramco[188] Coca-Cola[189] Hyundai–Kia[190] Lenovo[191] Qatar Airways[192] Visa[193] AB InBev (Budweiser+Others)[194] American Airlines[195] Bank of America[196] Frito-Lay (Lay's)[197] Hisense[198] McDonald's[199] Mengniu Dairy[200] Unilever (Rexona+Others)[201] Verizon[202] ADI Predictstreet[203] DoorDash[204] Marriott Bonvoy[205] Rock-it Cargo[206] Valvoline[207]
+
+--- TABLE 129 (1, 4) ---
+North American supporters | South American supporters | European supporters | Asian supporters
+                                         North American supporters South American supporters      European supporters Asian supporters
+Airbnb[208] Diageo[209] Globant[210] Home Depot[211][212] PIF[213]   Betano[214] Diageo[209] Betano[214] Globant[210]         PIF[213]
+
+--- TABLE 130 (7, 4) ---
+Atlanta | Boston | Dallas | Guadalajara
+                                                                                                                                                                Atlanta                                                                                                                                                                                                     Boston                                                                                                                                          Dallas                                Guadalajara
+                                               Cox Enterprises[212][215] Georgia-Pacific[212][215] Home Depot[212][215] NAPA Auto Parts[216] Southern Company[212][215]                                                                                                                          Coca-Cola Beverages Northeast[217] Meet Boston[218] Sanofi[219] State Street[219] Arca Continental[220] Choctaw Casinos & Resorts[221] Dallas Cowboys[222] FC Dallas[222] North Texas Sports Foundation[222] UT Southwestern[222] Guadalajara[223] Jalisco[223] Zapopan[223]
+                                                                                    
+
+--- TABLE 131 (19, 4) ---
+No. | Title | Performer(s) | Length
+ No.                                    Title                  Performer(s) Length
+ 1.0 "The Official FIFA World Cup 2026 Theme" Zachary Aaron Golden (writer)   2:02
+ 2.0                                  "Goals"        Lisa, Anitta, and Rema   3:00
+ 3.0                              "Game Time"                  Future, Tyla   3:27
+
+--- TABLE 132 (9, 4) ---
+('Place', 'Place') | ('Teams', 'Teams') | ('Amount (in millions)', 'Per team') | ('Amount (in millions)', 'Total')
+      Place Teams Amount (in millions)      
+      Place Teams             Per team Total
+  Champions     1                  $50   $50
+ Runners-up     1                  $33   $33
+Third place     1                  $29   $29
+
+--- TABLE 133 (3, 2) ---
+vte2026 FIFA World Cup | vte2026 FIFA World Cup.1
+vte2026 FIFA World Cup                                                                                                                vte2026 FIFA World Cup.1
+                Stages        Group stage Group A Group B Group C Group D Group E Group F Group G Group H Group I Group J Group K Group L Knockout stage Final
+   General information                           Qualification Bids United Morocco Broadcasting rights Controversies Draw Stadiums Task force Officials Squads
+      Official symbols Trionda (ball) Maple, Zayu and Clutch (Mascots) FIFA World Cup 2026 Official Album "Lighter" "Illuminate" "Dai Dai" "Goals" "Game Time"
+
+--- TABLE 134 (13, 2) ---
+vteFIFA World Cup | vteFIFA World Cup.1
+                                       vteFIFA World Cup                                                                                                                                                                                                                                                                                                                                                                                   vteFIFA World Cup.1
+Fédération internationale de football association (FIFA)                                                                                                                                                                                                                                                                                                                                              Fédération internationale de football association (FIFA)
+                                             Tournaments Uruguay 1930 Italy 1934 France 1938 Brazil 1950 Switzerland 1954 Sweden 1958 Chile 1962 England 1966 Mexico 1970 West Germany 1974 Argentina 1978 Spain 1982 Mexico 1986 Italy 1990 United States 1994 France 1998 South Korea / Japan 2002 Germany 2006 
+
+--- TABLE 135 (18, 2) ---
+Links to related articles | Links to related articles.1
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+
+--- TABLE 136 (3, 2) ---
+vte2026 FIFA World Cup stadiums | vte2026 FIFA World Cup stadiums.1
+vte2026 FIFA World Cup stadiums                                                                                                                                                                                                                                                                                                                                     vte2026 FIFA World Cup stadiums.1
+                         Canada                                                                                                                                                                                                                                                                                                              Toronto Stadium (Toronto) BC Place Vancouver (Vancouver)
+                         Mexico                                                                                                                                                                                                                                                                     Estadio Guadalajara (Guadalajara) Mexico City Stadium (Mexico City) Estadio Monterrey (Monterrey)
+                  United State
+
+--- TABLE 137 (6, 2) ---
+vteReferees at the 2026 FIFA World Cup | vteReferees at the 2026 FIFA World Cup.1
+vteReferees at the 2026 FIFA World Cup                                                                                                  vteReferees at the 2026 FIFA World Cup.1
+                                   AFC                   Omar Al Ali Abdulrahman Al-Jassim Khalid Al-Turais Alireza Faghani Ma Ning Adham Makhadmeh Ilgiz Tantashev Yusuke Araki
+                                   CAF                                       Omar Abdulkadir Artan Pierre Atcho Dahane Beida Mustapha Ghorbal Jalal Jayed Amin Omar Abongile Tom
+                              CONCACAF Iván Barton Juan Gabriel Calderón Ismail Elfath Oshane Nation Drew Fischer Katia Itzel García Saíd Martínez Tori Penso César Arturo Ramos
+
+--- TABLE 138 (5, 2) ---
+vteWorld championships in 2026 | vteWorld championships in 2026.1
+ vteWorld championships in 2026                                                                                                                                                                                                                                                                                                                                                                                                                                                   vteWorld championships in 2026.1
+Summer sports and indoor sports Association football (men) Athletics cross country indoor road running race walking ultimate Badminton individual team Baseball (men) Basketball 3x3 women Beach handball men women Bowling (9-pin) Bowls indoor WBT indoor WB/IIBC Cricket T20 men T20 women Cycling BMX cyclo-cross mountain bike road track urban Equestrian Fencing Field hockey men women Gymnastics acrobatic artistic rhythmic trampoline Judo Rowing Squash men women Table tennis Weightlifting Wrestling
+                  Winter sports                                                                                                                                                                           

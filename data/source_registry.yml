@@ -21,3 +21,17 @@ production_rules:
   - "Seed ratings must be labelled as fallback only."
   - "Formal public claims require processed data + health report + backtesting."
   - "Every automatic update must leave a source log and validation report."
+
+api_football:
+  name: "API-Football"
+  type: "sports_api"
+  reliability: "primary_automation_if_available"
+  league_id: 1
+  season: 2026
+  environment_secret: "API_FOOTBALL_KEY"
+  fields:
+    - fixtures
+    - results
+    - standings
+    - teams
+  fallback_policy: "If unavailable, restricted, empty, or quota-limited, use remote CSV/local official/fallback seed layers."

@@ -3,7 +3,7 @@ name: Update WC26 Data
 on:
   workflow_dispatch:
   schedule:
-    # Daily at 06:17 UTC before tournament. Increase frequency only if API limits allow.
+    # Safe free mode: daily update. Increase only if using verified CSV/API with sufficient quota.
     - cron: "17 6 * * *"
 
 permissions:
@@ -12,6 +12,7 @@ permissions:
 jobs:
   update-data:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -22,23 +23,32 @@ jobs:
           python-version: "3.11"
 
       - name: Install dependencies
-        run: pip install -r requirements.txt
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
 
-      - name: Build processed datasets
+      - name: Update processed data
         env:
           TEAMS_CSV_URL: ${{ secrets.TEAMS_CSV_URL }}
           MATCHES_CSV_URL: ${{ secrets.MATCHES_CSV_URL }}
           HOST_CITIES_CSV_URL: ${{ secrets.HOST_CITIES_CSV_URL }}
           RANKINGS_CSV_URL: ${{ secrets.RANKINGS_CSV_URL }}
-        run: python -m src.pipelines.update_all
+          API_FOOTBALL_KEY: ${{ secrets.API_FOOTBALL_KEY }}
+          API_FOOTBALL_ENABLED: ${{ vars.API_FOOTBALL_ENABLED }}
+          API_FOOTBALL_LEAGUE_ID: ${{ vars.API_FOOTBALL_LEAGUE_ID }}
+          API_FOOTBALL_SEASON: ${{ vars.API_FOOTBALL_SEASON }}
+        run: |
+          python -m src.pipelines.update_all
+          python -m src.pipelines.validate_data
 
-      - name: Validate processed datasets
-        run: python -m src.pipelines.validate_data
+      - name: Run tests
+        run: |
+          python -m pytest -q
 
-      - name: Commit updated data if changed
+      - name: Commit processed data if changed
         run: |
           git config user.name "wc26-data-bot"
           git config user.email "actions@github.com"
-          git add data/processed data/raw data/source_logs
-          git diff --cached --quiet || git commit -m "Auto-update processed WC26 data"
+          git add data/processed data/source_logs
+          git diff --cached --quiet || git commit -m "Auto-update WC26 processed data"
           git push

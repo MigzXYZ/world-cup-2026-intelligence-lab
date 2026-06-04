@@ -1,0 +1,38 @@
+name: Parse WC26 Wikipedia Mirror
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "41 5 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  wiki-parse:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+          pip install lxml html5lib beautifulsoup4 requests
+      - name: Parse Wikipedia schedule mirror and rebuild data
+        run: |
+          python -m src.pipelines.update_from_wikipedia
+      - name: Run tests
+        run: |
+          python -m pytest -q
+      - name: Commit parsed schedule if changed
+        run: |
+          git config user.name "wc26-wiki-parser"
+          git config user.email "actions@github.com"
+          git add data/matches_official.csv data/teams_official.csv data/raw data/source_logs data/processed
+          git diff --cached --quiet || git commit -m "Update WC26 data from public schedule mirror"
+          git push

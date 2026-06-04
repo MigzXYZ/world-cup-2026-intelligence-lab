@@ -1,0 +1,49 @@
+team,group,confederation,is_host,notes
+Czechia,A,UEFA,0,Parsed from Wikipedia public schedule mirror; verify against FIFA official source.
+Korea Republic,A,AFC,0,Parsed from Wikipedia public schedule mirror; verify against FIFA official source.
+Mexico,A,CONCACAF,1,Parsed from Wikipedia public schedule mirror; verify against FIFA official source.
+South Africa,A,CAF,0,Parsed from Wikipedia public schedule mirror; verify against FIFA official source.
+Bosnia and Herzegovina,B,UEFA,0,Parsed from Wikipedia public schedule mirror; verify against FIFA official source.
+Canada,B,CONCACAF,1,Parsed from Wikipedia public schedule mirror; verify against FIFA official source.
+Qatar,B,AFC,0,Parsed from Wikipedia public schedule mirror; verify against FIFA official source.
+Switzerland,B,UEFA,0,Parsed from Wikipedia public schedule mirror; verify against FIFA official source.
+Brazil,C,CONMEBOL,0,Parsed from Wikipedia public schedule mirror; verify against FIFA official source.
+Haiti,C,CONCACAF,0,Parsed from Wikipedia public schedule mirror; verify against FIFA official source.
+Morocco,C,CAF,0,Parsed from Wikipedia public schedule mirror; verify against FIFA official source.
+Scotland,C,UEFA,0,Parsed from Wikipedia public schedule mirror; verify against FIFA official source.
+Australia,D,AFC,0,Parsed from Wikipedia public schedule mirror; verify against FIFA official source.
+Paraguay,D,CONMEBOL,0,Parsed from Wikipedia public schedule mirror; verify against FIFA official source.
+Türkiye,D,UEFA,0,Parsed from Wikipedia public schedule mirror; verify against FIFA official source.
+United States,D,CONCACAF,1,Parsed from Wikipedia public schedule mirror; verify against FIFA official source.
+Curaçao,E,CONCACAF,0,Parsed from Wikipedia public schedule mirror; verify against FIFA official source.
+Ecuador,E,CONMEBOL,0,Parsed from Wikipedia public schedule mirror; verify against FIFA official source.
+Germany,E,UEFA,0,Parsed from Wikipedia public schedule mirror; verify against FIFA official source.
+Ivory Coast,E,CAF,0,Parsed from Wikipedia public schedule mirror; verify against FIFA official source.
+Japan,F,AFC,0,Parsed from Wikipedia public schedule mirror; verify against FIFA official source.
+Netherlands,F,UEFA,0,Parsed from Wikipedia public schedule mirror; verify against FIFA official source.
+Sweden,F,UEFA,0,Parsed from Wikipedia public schedule mirror; verify against FIFA official source.
+Tunisia,F,CAF,0,Parsed from Wikipedia public schedule mirror; verify against FIFA official source.
+Belgium,G,UEFA,0,Parsed from Wikipedia public schedule mirror; verify against FIFA official source.
+Egypt,G,CAF,0,Parsed from Wikipedia public schedule mirror; verify against FIFA official source.
+Iran,G,AFC,0,Parsed from Wikipedia public schedule mirror; verify against FIFA official source.
+New Zealand,G,OFC,0,Parsed from Wikipedia public schedule mirror; verify against FIFA official source.
+Cape Verde,H,CAF,0,Parsed from Wikipedia public schedule mirror; verify against FIFA official source.
+Saudi Arabia,H,AFC,0,Parsed from Wikipedia public schedule mirror; verify against FIFA official source.
+Spain,H,UEFA,0,Parsed from Wikipedia public schedule mirror; verify against FIFA official source.
+Uruguay,H,CONMEBOL,0,Parsed from Wikipedia public schedule mirror; verify against FIFA official source.
+France,I,UEFA,0,Parsed from Wikipedia public schedule mirror; verify against FIFA official source.
+Iraq,I,AFC,0,Parsed from Wikipedia public schedule mirror; verify against FIFA official source.
+Norway,I,UEFA,0,Parsed from Wikipedia public schedule mirror; verify against FIFA official source.
+Senegal,I,CAF,0,Parsed from Wikipedia public schedule mirror; verify against FIFA official source.
+Algeria,J,CAF,0,Parsed from Wikipedia public schedule mirror; verify against FIFA official source.
+Argentina,J,CONMEBOL,0,Parsed from Wikipedia public schedule mirror; verify against FIFA official source.
+Austria,J,UEFA,0,Parsed from Wikipedia public schedule mirror; verify against FIFA official source.
+Jordan,J,AFC,0,Parsed from Wikipedia public schedule mirror; verify against FIFA official source.
+Colombia,K,CONMEBOL,0,Parsed from Wikipedia public schedule mirror; verify against FIFA official source.
+DR Congo,K,CAF,0,Parsed from Wikipedia public schedule mirror; verify against FIFA official source.
+Portugal,K,UEFA,0,Parsed from Wikipedia public schedule mirror; verify against FIFA official source.
+Uzbekistan,K,AFC,0,Parsed from Wikipedia public schedule mirror; verify against FIFA official source.
+Croatia,L,UEFA,0,Parsed from Wikipedia public schedule mirror; verify against FIFA official source.
+England,L,UEFA,0,Parsed from Wikipedia public schedule mirror; verify against FIFA official source.
+Ghana,L,CAF,0,Parsed from Wikipedia public schedule mirror; verify against FIFA official source.
+Panama,L,CONCACAF,0,Parsed from Wikipedia public schedule mirror; verify against FIFA official source.

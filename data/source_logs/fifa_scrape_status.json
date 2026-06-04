@@ -1,0 +1,7 @@
+{
+  "scraped_at_utc": "2026-06-04T21:48:32.874211+00:00",
+  "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
+  "rendered": true,
+  "success": false,
+  "error": "FIFA scraper did not extract enough group-stage matches. Found 0. Raw page saved at D:\\world-cup-2026-intelligence-lab\\data\\raw\\fifa_schedule_page.html and text at D:\\world-cup-2026-intelligence-lab\\data\\raw\\fifa_schedule_page_text.txt. Inspect the raw text or run with --rendered. No official CSV was overwritten."
+}
