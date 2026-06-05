@@ -1,0 +1,11 @@
+﻿Place,Teams,Amount (in millions),Amount (in millions)
+Place,Teams,Per team,Total
+Champions,1,$50,$50
+Runners-up,1,$33,$33
+Third place,1,$29,$29
+Fourth place,1,$27,$27
+5th–8th place (quarter-finals),4,$19,$76
+9th–16th place (round of 16),8,$15,$120
+17th–32nd place (round of 32),16,$11,$176
+33rd–48th place (group stage),16,$9,$144
+Total,48,$655,$655

@@ -1,4 +1,4 @@
 source_name,source_type,source_ref,row_count,updated_at_utc
-teams,official_local,data\teams_official.csv,48,2026-06-04T21:59:27.299920+00:00
-matches,official_local,data\matches_official.csv,72,2026-06-04T21:59:27.316551+00:00
-host_cities,local,data\host_cities.csv,16,2026-06-04T21:59:27.322809+00:00
+teams,official_local,data/teams_official.csv,48,2026-06-05T08:57:29.438622+00:00
+matches,official_local,data/matches_official.csv,72,2026-06-05T08:57:29.450531+00:00
+host_cities,local,data/host_cities.csv,16,2026-06-05T08:57:29.454674+00:00
