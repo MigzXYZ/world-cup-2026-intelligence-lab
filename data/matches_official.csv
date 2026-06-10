@@ -1,73 +1,73 @@
 match_id,stage,group,date,time_local,team_a,team_b,venue,city,country,status,score_a,score_b,winner,source_updated_at_utc
-1,Group Stage,A,,,Mexico,South Africa,,,,scheduled,,,,2026-06-09T08:49:22.568277+00:00
-2,Group Stage,A,,,Korea Republic,Czechia,,,,scheduled,,,,2026-06-09T08:49:22.570194+00:00
-3,Group Stage,B,,,Canada,Bosnia and Herzegovina,,,,scheduled,,,,2026-06-09T08:49:22.579121+00:00
-4,Group Stage,D,,,United States,Paraguay,,,,scheduled,,,,2026-06-09T08:49:22.599543+00:00
-5,Group Stage,C,,,Haiti,Scotland,,,,scheduled,,,,2026-06-09T08:49:22.591114+00:00
-6,Group Stage,D,,,Australia,Türkiye,,,,scheduled,,,,2026-06-09T08:49:22.601152+00:00
-7,Group Stage,C,,,Brazil,Morocco,,,,scheduled,,,,2026-06-09T08:49:22.589484+00:00
-8,Group Stage,B,,,Qatar,Switzerland,,,,scheduled,,,,2026-06-09T08:49:22.580864+00:00
-9,Group Stage,E,,,Ivory Coast,Ecuador,,,,scheduled,,,,2026-06-09T08:49:22.611171+00:00
-10,Group Stage,E,,,Germany,Curaçao,,,,scheduled,,,,2026-06-09T08:49:22.609567+00:00
-11,Group Stage,F,,,Netherlands,Japan,,,,scheduled,,,,2026-06-09T08:49:22.619746+00:00
-12,Group Stage,F,,,Sweden,Tunisia,,,,scheduled,,,,2026-06-09T08:49:22.621336+00:00
-13,Group Stage,H,,,Saudi Arabia,Uruguay,,,,scheduled,,,,2026-06-09T08:49:22.642835+00:00
-14,Group Stage,H,,,Spain,Cape Verde,,,,scheduled,,,,2026-06-09T08:49:22.641203+00:00
-15,Group Stage,G,,,Iran,New Zealand,,,,scheduled,,,,2026-06-09T08:49:22.632559+00:00
-16,Group Stage,G,,,Belgium,Egypt,,,,scheduled,,,,2026-06-09T08:49:22.630060+00:00
-17,Group Stage,I,,,France,Senegal,,,,scheduled,,,,2026-06-09T08:49:22.651393+00:00
-18,Group Stage,I,,,Iraq,Norway,,,,scheduled,,,,2026-06-09T08:49:22.653018+00:00
-19,Group Stage,J,,,Argentina,Algeria,,,,scheduled,,,,2026-06-09T08:49:22.661533+00:00
-20,Group Stage,J,,,Austria,Jordan,,,,scheduled,,,,2026-06-09T08:49:22.663159+00:00
-21,Group Stage,L,,,Ghana,Panama,,,,scheduled,,,,2026-06-09T08:49:22.683203+00:00
-22,Group Stage,L,,,England,Croatia,,,,scheduled,,,,2026-06-09T08:49:22.681594+00:00
-23,Group Stage,K,,,Portugal,DR Congo,,,,scheduled,,,,2026-06-09T08:49:22.671569+00:00
-24,Group Stage,K,,,Uzbekistan,Colombia,,,,scheduled,,,,2026-06-09T08:49:22.673192+00:00
-25,Group Stage,A,,,Czechia,South Africa,,,,scheduled,,,,2026-06-09T08:49:22.571982+00:00
-26,Group Stage,B,,,Switzerland,Bosnia and Herzegovina,,,,scheduled,,,,2026-06-09T08:49:22.582469+00:00
-27,Group Stage,B,,,Canada,Qatar,,,,scheduled,,,,2026-06-09T08:49:22.584078+00:00
-28,Group Stage,A,,,Mexico,Korea Republic,,,,scheduled,,,,2026-06-09T08:49:22.573650+00:00
-29,Group Stage,C,,,Brazil,Haiti,,,,scheduled,,,,2026-06-09T08:49:22.594287+00:00
-30,Group Stage,C,,,Scotland,Morocco,,,,scheduled,,,,2026-06-09T08:49:22.592695+00:00
-31,Group Stage,D,,,Türkiye,Paraguay,,,,scheduled,,,,2026-06-09T08:49:22.604277+00:00
-32,Group Stage,D,,,United States,Australia,,,,scheduled,,,,2026-06-09T08:49:22.602698+00:00
-33,Group Stage,E,,,Germany,Ivory Coast,,,,scheduled,,,,2026-06-09T08:49:22.612813+00:00
-34,Group Stage,E,,,Ecuador,Curaçao,,,,scheduled,,,,2026-06-09T08:49:22.614413+00:00
-35,Group Stage,F,,,Netherlands,Sweden,,,,scheduled,,,,2026-06-09T08:49:22.622964+00:00
-36,Group Stage,F,,,Tunisia,Japan,,,,scheduled,,,,2026-06-09T08:49:22.624544+00:00
-37,Group Stage,H,,,Uruguay,Cape Verde,,,,scheduled,,,,2026-06-09T08:49:22.646066+00:00
-38,Group Stage,H,,,Spain,Saudi Arabia,,,,scheduled,,,,2026-06-09T08:49:22.644442+00:00
-39,Group Stage,G,,,Belgium,Iran,,,,scheduled,,,,2026-06-09T08:49:22.634204+00:00
-40,Group Stage,G,,,New Zealand,Egypt,,,,scheduled,,,,2026-06-09T08:49:22.635813+00:00
-41,Group Stage,I,,,Norway,Senegal,,,,scheduled,,,,2026-06-09T08:49:22.656246+00:00
-42,Group Stage,I,,,France,Iraq,,,,scheduled,,,,2026-06-09T08:49:22.654601+00:00
-43,Group Stage,J,,,Argentina,Austria,,,,scheduled,,,,2026-06-09T08:49:22.664749+00:00
-44,Group Stage,J,,,Jordan,Algeria,,,,scheduled,,,,2026-06-09T08:49:22.666310+00:00
-45,Group Stage,L,,,England,Ghana,,,,scheduled,,,,2026-06-09T08:49:22.684816+00:00
-46,Group Stage,L,,,Panama,Croatia,,,,scheduled,,,,2026-06-09T08:49:22.686367+00:00
-47,Group Stage,K,,,Portugal,Uzbekistan,,,,scheduled,,,,2026-06-09T08:49:22.674754+00:00
-48,Group Stage,K,,,Colombia,DR Congo,,,,scheduled,,,,2026-06-09T08:49:22.676313+00:00
-49,Group Stage,C,,,Scotland,Brazil,,,,scheduled,,,,2026-06-09T08:49:22.595872+00:00
-50,Group Stage,C,,,Morocco,Haiti,,,,scheduled,,,,2026-06-09T08:49:22.597441+00:00
-51,Group Stage,B,,,Switzerland,Canada,,,,scheduled,,,,2026-06-09T08:49:22.585643+00:00
-52,Group Stage,B,,,Bosnia and Herzegovina,Qatar,,,,scheduled,,,,2026-06-09T08:49:22.587338+00:00
-53,Group Stage,A,,,Czechia,Mexico,,,,scheduled,,,,2026-06-09T08:49:22.575306+00:00
-54,Group Stage,A,,,South Africa,Korea Republic,,,,scheduled,,,,2026-06-09T08:49:22.576927+00:00
-55,Group Stage,E,,,Curaçao,Ivory Coast,,,,scheduled,,,,2026-06-09T08:49:22.616036+00:00
-56,Group Stage,E,,,Ecuador,Germany,,,,scheduled,,,,2026-06-09T08:49:22.617600+00:00
-57,Group Stage,F,,,Japan,Sweden,,,,scheduled,,,,2026-06-09T08:49:22.626145+00:00
-58,Group Stage,F,,,Tunisia,Netherlands,,,,scheduled,,,,2026-06-09T08:49:22.627888+00:00
-59,Group Stage,D,,,Türkiye,United States,,,,scheduled,,,,2026-06-09T08:49:22.605864+00:00
-60,Group Stage,D,,,Paraguay,Australia,,,,scheduled,,,,2026-06-09T08:49:22.607430+00:00
-61,Group Stage,I,,,Norway,France,,,,scheduled,,,,2026-06-09T08:49:22.657847+00:00
-62,Group Stage,I,,,Senegal,Iraq,,,,scheduled,,,,2026-06-09T08:49:22.659395+00:00
-63,Group Stage,G,,,Egypt,Iran,,,,scheduled,,,,2026-06-09T08:49:22.637388+00:00
-64,Group Stage,G,,,New Zealand,Belgium,,,,scheduled,,,,2026-06-09T08:49:22.639017+00:00
-65,Group Stage,H,,,Cape Verde,Saudi Arabia,,,,scheduled,,,,2026-06-09T08:49:22.647637+00:00
-66,Group Stage,H,,,Uruguay,Spain,,,,scheduled,,,,2026-06-09T08:49:22.649245+00:00
-67,Group Stage,L,,,Panama,England,,,,scheduled,,,,2026-06-09T08:49:22.687951+00:00
-68,Group Stage,L,,,Croatia,Ghana,,,,scheduled,,,,2026-06-09T08:49:22.689509+00:00
-69,Group Stage,J,,,Algeria,Austria,,,,scheduled,,,,2026-06-09T08:49:22.667890+00:00
-70,Group Stage,J,,,Jordan,Argentina,,,,scheduled,,,,2026-06-09T08:49:22.669462+00:00
-71,Group Stage,K,,,Colombia,Portugal,,,,scheduled,,,,2026-06-09T08:49:22.677931+00:00
-72,Group Stage,K,,,DR Congo,Uzbekistan,,,,scheduled,,,,2026-06-09T08:49:22.679502+00:00
+1,Group Stage,A,,,Mexico,South Africa,,,,scheduled,,,,2026-06-10T09:06:56.418918+00:00
+2,Group Stage,A,,,Korea Republic,Czechia,,,,scheduled,,,,2026-06-10T09:06:56.421127+00:00
+3,Group Stage,B,,,Canada,Bosnia and Herzegovina,,,,scheduled,,,,2026-06-10T09:06:56.431885+00:00
+4,Group Stage,D,,,United States,Paraguay,,,,scheduled,,,,2026-06-10T09:06:56.456755+00:00
+5,Group Stage,C,,,Haiti,Scotland,,,,scheduled,,,,2026-06-10T09:06:56.446349+00:00
+6,Group Stage,D,,,Australia,Türkiye,,,,scheduled,,,,2026-06-10T09:06:56.458681+00:00
+7,Group Stage,C,,,Brazil,Morocco,,,,scheduled,,,,2026-06-10T09:06:56.444395+00:00
+8,Group Stage,B,,,Qatar,Switzerland,,,,scheduled,,,,2026-06-10T09:06:56.433899+00:00
+9,Group Stage,E,,,Ivory Coast,Ecuador,,,,scheduled,,,,2026-06-10T09:06:56.471085+00:00
+10,Group Stage,E,,,Germany,Curaçao,,,,scheduled,,,,2026-06-10T09:06:56.469067+00:00
+11,Group Stage,F,,,Netherlands,Japan,,,,scheduled,,,,2026-06-10T09:06:56.481484+00:00
+12,Group Stage,F,,,Sweden,Tunisia,,,,scheduled,,,,2026-06-10T09:06:56.483469+00:00
+13,Group Stage,H,,,Saudi Arabia,Uruguay,,,,scheduled,,,,2026-06-10T09:06:56.517577+00:00
+14,Group Stage,H,,,Spain,Cape Verde,,,,scheduled,,,,2026-06-10T09:06:56.514852+00:00
+15,Group Stage,G,,,Iran,New Zealand,,,,scheduled,,,,2026-06-10T09:06:56.500551+00:00
+16,Group Stage,G,,,Belgium,Egypt,,,,scheduled,,,,2026-06-10T09:06:56.496786+00:00
+17,Group Stage,I,,,France,Senegal,,,,scheduled,,,,2026-06-10T09:06:56.528704+00:00
+18,Group Stage,I,,,Iraq,Norway,,,,scheduled,,,,2026-06-10T09:06:56.530688+00:00
+19,Group Stage,J,,,Argentina,Algeria,,,,scheduled,,,,2026-06-10T09:06:56.541082+00:00
+20,Group Stage,J,,,Austria,Jordan,,,,scheduled,,,,2026-06-10T09:06:56.543018+00:00
+21,Group Stage,L,,,Ghana,Panama,,,,scheduled,,,,2026-06-10T09:06:56.567300+00:00
+22,Group Stage,L,,,England,Croatia,,,,scheduled,,,,2026-06-10T09:06:56.565395+00:00
+23,Group Stage,K,,,Portugal,DR Congo,,,,scheduled,,,,2026-06-10T09:06:56.553261+00:00
+24,Group Stage,K,,,Uzbekistan,Colombia,,,,scheduled,,,,2026-06-10T09:06:56.555177+00:00
+25,Group Stage,A,,,Czechia,South Africa,,,,scheduled,,,,2026-06-10T09:06:56.423259+00:00
+26,Group Stage,B,,,Switzerland,Bosnia and Herzegovina,,,,scheduled,,,,2026-06-10T09:06:56.435849+00:00
+27,Group Stage,B,,,Canada,Qatar,,,,scheduled,,,,2026-06-10T09:06:56.437839+00:00
+28,Group Stage,A,,,Mexico,Korea Republic,,,,scheduled,,,,2026-06-10T09:06:56.425277+00:00
+29,Group Stage,C,,,Brazil,Haiti,,,,scheduled,,,,2026-06-10T09:06:56.450290+00:00
+30,Group Stage,C,,,Scotland,Morocco,,,,scheduled,,,,2026-06-10T09:06:56.448341+00:00
+31,Group Stage,D,,,Türkiye,Paraguay,,,,scheduled,,,,2026-06-10T09:06:56.462573+00:00
+32,Group Stage,D,,,United States,Australia,,,,scheduled,,,,2026-06-10T09:06:56.460630+00:00
+33,Group Stage,E,,,Germany,Ivory Coast,,,,scheduled,,,,2026-06-10T09:06:56.473037+00:00
+34,Group Stage,E,,,Ecuador,Curaçao,,,,scheduled,,,,2026-06-10T09:06:56.475051+00:00
+35,Group Stage,F,,,Netherlands,Sweden,,,,scheduled,,,,2026-06-10T09:06:56.485432+00:00
+36,Group Stage,F,,,Tunisia,Japan,,,,scheduled,,,,2026-06-10T09:06:56.487544+00:00
+37,Group Stage,H,,,Uruguay,Cape Verde,,,,scheduled,,,,2026-06-10T09:06:56.522218+00:00
+38,Group Stage,H,,,Spain,Saudi Arabia,,,,scheduled,,,,2026-06-10T09:06:56.520231+00:00
+39,Group Stage,G,,,Belgium,Iran,,,,scheduled,,,,2026-06-10T09:06:56.502969+00:00
+40,Group Stage,G,,,New Zealand,Egypt,,,,scheduled,,,,2026-06-10T09:06:56.505765+00:00
+41,Group Stage,I,,,Norway,Senegal,,,,scheduled,,,,2026-06-10T09:06:56.534666+00:00
+42,Group Stage,I,,,France,Iraq,,,,scheduled,,,,2026-06-10T09:06:56.532668+00:00
+43,Group Stage,J,,,Argentina,Austria,,,,scheduled,,,,2026-06-10T09:06:56.544966+00:00
+44,Group Stage,J,,,Jordan,Algeria,,,,scheduled,,,,2026-06-10T09:06:56.546878+00:00
+45,Group Stage,L,,,England,Ghana,,,,scheduled,,,,2026-06-10T09:06:56.569217+00:00
+46,Group Stage,L,,,Panama,Croatia,,,,scheduled,,,,2026-06-10T09:06:56.571105+00:00
+47,Group Stage,K,,,Portugal,Uzbekistan,,,,scheduled,,,,2026-06-10T09:06:56.557130+00:00
+48,Group Stage,K,,,Colombia,DR Congo,,,,scheduled,,,,2026-06-10T09:06:56.559022+00:00
+49,Group Stage,C,,,Scotland,Brazil,,,,scheduled,,,,2026-06-10T09:06:56.452257+00:00
+50,Group Stage,C,,,Morocco,Haiti,,,,scheduled,,,,2026-06-10T09:06:56.454235+00:00
+51,Group Stage,B,,,Switzerland,Canada,,,,scheduled,,,,2026-06-10T09:06:56.439875+00:00
+52,Group Stage,B,,,Bosnia and Herzegovina,Qatar,,,,scheduled,,,,2026-06-10T09:06:56.441893+00:00
+53,Group Stage,A,,,Czechia,Mexico,,,,scheduled,,,,2026-06-10T09:06:56.427278+00:00
+54,Group Stage,A,,,South Africa,Korea Republic,,,,scheduled,,,,2026-06-10T09:06:56.429278+00:00
+55,Group Stage,E,,,Curaçao,Ivory Coast,,,,scheduled,,,,2026-06-10T09:06:56.477004+00:00
+56,Group Stage,E,,,Ecuador,Germany,,,,scheduled,,,,2026-06-10T09:06:56.478985+00:00
+57,Group Stage,F,,,Japan,Sweden,,,,scheduled,,,,2026-06-10T09:06:56.490250+00:00
+58,Group Stage,F,,,Tunisia,Netherlands,,,,scheduled,,,,2026-06-10T09:06:56.493069+00:00
+59,Group Stage,D,,,Türkiye,United States,,,,scheduled,,,,2026-06-10T09:06:56.464516+00:00
+60,Group Stage,D,,,Paraguay,Australia,,,,scheduled,,,,2026-06-10T09:06:56.466488+00:00
+61,Group Stage,I,,,Norway,France,,,,scheduled,,,,2026-06-10T09:06:56.536627+00:00
+62,Group Stage,I,,,Senegal,Iraq,,,,scheduled,,,,2026-06-10T09:06:56.538556+00:00
+63,Group Stage,G,,,Egypt,Iran,,,,scheduled,,,,2026-06-10T09:06:56.508599+00:00
+64,Group Stage,G,,,New Zealand,Belgium,,,,scheduled,,,,2026-06-10T09:06:56.511329+00:00
+65,Group Stage,H,,,Cape Verde,Saudi Arabia,,,,scheduled,,,,2026-06-10T09:06:56.524233+00:00
+66,Group Stage,H,,,Uruguay,Spain,,,,scheduled,,,,2026-06-10T09:06:56.526217+00:00
+67,Group Stage,L,,,Panama,England,,,,scheduled,,,,2026-06-10T09:06:56.573013+00:00
+68,Group Stage,L,,,Croatia,Ghana,,,,scheduled,,,,2026-06-10T09:06:56.574914+00:00
+69,Group Stage,J,,,Algeria,Austria,,,,scheduled,,,,2026-06-10T09:06:56.548831+00:00
+70,Group Stage,J,,,Jordan,Argentina,,,,scheduled,,,,2026-06-10T09:06:56.550825+00:00
+71,Group Stage,K,,,Colombia,Portugal,,,,scheduled,,,,2026-06-10T09:06:56.560993+00:00
+72,Group Stage,K,,,DR Congo,Uzbekistan,,,,scheduled,,,,2026-06-10T09:06:56.562968+00:00
