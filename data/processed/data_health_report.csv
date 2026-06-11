@@ -1,2 +1,2 @@
 checked_at_utc,severity,dataset,check,message
-2026-06-10T09:06:57.884046+00:00,warning,teams,seed_rating,Seed ratings exist. Do not treat them as official predictions.
+2026-06-11T09:53:21.798762+00:00,warning,teams,seed_rating,Seed ratings exist. Do not treat them as official predictions.
